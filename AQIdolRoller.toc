@@ -1,0 +1,8 @@
+## Interface: 80300
+## Title: AQ Idol Roller
+## Notes: rolls on idols and scarabs dropping in AQ20 and AQ40
+## Author: Tyrnar
+## Version: @project-version@
+## X-Curse-Project-ID: 390627
+## SavedVariables: AQIdolRollerSettings
+AQIdolRoller.lua
