@@ -1,3 +1,7 @@
+#### v1.0.1:
+
+* Interface version in toc file fixed.
+
 #### v1.0.0:
 
 * Addon forked from [ZG Bijou Roller](https://www.curseforge.com/wow/addons/zg-bijou-roller).
