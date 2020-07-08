@@ -1,4 +1,4 @@
-## Interface: 11304
+## Interface: 11305
 ## Title: AQ Idol Roller
 ## Notes: rolls on idols and scarabs dropping in AQ20 and AQ40
 ## Author: Tyrnar
